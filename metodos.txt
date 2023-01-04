@@ -1,0 +1,8 @@
+
+//Abrir http (método, url)
+
+//CRUD                - Metodos HTTP
+//Create(crear)       - POST
+//Read(leer)          - GET
+//Update(actualizar)  - PUT/PATCH
+//Delete(eliminar)    - DELETE
